@@ -3,7 +3,8 @@
 ## Projenin Amacı
 Bu proje, Convolutional Neural Network (CNN) kullanarak köpek ve kedi resimlerini sınıflandırmayı amaçlamaktadır. Amaç, temel bir derin öğrenme modeli ile yüksek doğrulukta sınıflandırma yapmak ve eğitim/validation sürecini görselleştirmektir.  
 
-Kaggle Linki [Cats vs Dogs Classification](https://www.kaggle.com/code/yaskucuker/dogs-vs-cats-model)
+## Kaggle Linki  
+[Cats vs Dogs Classification](https://www.kaggle.com/code/yaskucuker/dogs-vs-cats-model)
 ---
 
 ## Veri Seti
@@ -72,9 +73,3 @@ Tüm örnek görseller doğru sınıflandırılmıştır.
 - Tüm örnek görseller doğru sınıflandırıldı.  
 - CNN ve data augmentation kullanımı, temel bir sınıflandırma için uygundur.  
 - Daha iyi performans için transfer learning (VGG16, ResNet50 vb.) kullanılabilir.
-
----
-
-## Notlar
-- Görseller `images/` klasöründe yer almalıdır.  
-- Model, Kaggle ortamında veya lokal olarak çalıştırılabilir.  
