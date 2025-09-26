@@ -3,8 +3,8 @@
 ## Projenin Amacı
 Bu proje, Convolutional Neural Network (CNN) kullanarak köpek ve kedi resimlerini sınıflandırmayı amaçlamaktadır. Amaç, temel bir derin öğrenme modeli ile yüksek doğrulukta sınıflandırma yapmak ve eğitim/validation sürecini görselleştirmektir.  
 
-## Kaggle Linki  
-[Cats vs Dogs Classification](https://www.kaggle.com/code/yaskucuker/dogs-vs-cats-model)
+## Kaggle Linki  - [Cats vs Dogs Classification](https://www.kaggle.com/code/yaskucuker/dogs-vs-cats-model)
+
 ---
 
 ## Veri Seti
