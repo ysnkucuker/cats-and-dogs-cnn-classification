@@ -29,7 +29,7 @@ Bu proje, Convolutional Neural Network (CNN) kullanarak köpek ve kedi resimleri
 - Resimleri 150x150 boyutuna yeniden boyutlandırma  
 - Normalizasyon: `rescale=1./255`  
 - Data augmentation: rotation, width/height shift, shear, zoom, horizontal flip  
-- Train/Validation split: %73 train, %27 validation  
+- Train/Validation split: %80 train, %20 validation   
 
 ### 2. Model Mimarisi
 - CNN (Sequential)  
@@ -43,7 +43,8 @@ Bu proje, Convolutional Neural Network (CNN) kullanarak köpek ve kedi resimleri
 - Epoch: 15  
 - Batch size: 32  
 - Validation set ile doğrulama  
-
+- Örnek tahmin görselleri gösterildi; tüm örnekler doğru sınıflandırıldı.
+  
 ---
 
 ## Model Performansı
