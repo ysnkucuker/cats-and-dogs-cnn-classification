@@ -1,7 +1,8 @@
 # 🐶 Cats vs Dogs CNN Classification
 
 ## Projenin Amacı
-Bu proje, Convolutional Neural Network (CNN) kullanarak köpek ve kedi resimlerini sınıflandırmayı amaçlamaktadır. Amaç, temel bir derin öğrenme modeli ile yüksek doğrulukta sınıflandırma yapmak ve eğitim/validation sürecini görselleştirmektir.
+Bu proje, Convolutional Neural Network (CNN) kullanarak köpek ve kedi resimlerini sınıflandırmayı amaçlamaktadır. Amaç, temel bir derin öğrenme modeli ile yüksek doğrulukta sınıflandırma yapmak ve eğitim/validation sürecini görselleştirmektir.  
+
 Kaggle Linki [Cats vs Dogs Classification](https://www.kaggle.com/code/yaskucuker/dogs-vs-cats-model)
 ---
 
@@ -17,7 +18,7 @@ Kaggle Linki [Cats vs Dogs Classification](https://www.kaggle.com/code/yaskucuke
 ### Örnek Resimler
 | Kedi | Köpek |
 |------|-------|
-| ![cat_sample](images/cat_sample.jpg) | ![dog_sample](images/dog_sample.jpg) |
+| ![cat_sample](images/cat_sample.png) | ![dog_sample](images/dog_sample.png) |
 
 ---
 
@@ -61,8 +62,8 @@ Tüm örnek görseller doğru sınıflandırılmıştır.
 
 | Tahmin: Cat | Tahmin: Dog |
 |-------------|-------------|
-| ![pred_cat](images/pred_cat1.jpg) | ![pred_dog](images/pred_dog1.jpg) |
-| ![pred_cat](images/pred_cat2.jpg) | ![pred_dog](images/pred_dog2.jpg) |
+| ![pred_cat](images/pred_cat.png) | ![pred_dog](images/pred_dog.png) |
+| ![pred_cat](images/pred_cat2.png) | ![pred_dog](images/pred_dog2.png) |
 
 ---
 
